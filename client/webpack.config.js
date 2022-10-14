@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Webpack Plugin",
+        title: "JATE",
       }),
       new WebpackPwaManifest({
         name: "Text Editor Application",
@@ -36,17 +36,11 @@ module.exports = () => {
             sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join("assets", "icons"),
           },
-          {
-            src: path.resolve("src/images//logo.png"),
-            size: "1024x1024",
-            destination: path.join("assets", "icons"),
-            purpose: "maskable",
-          },
         ],
       }),
       new InjectManifest({
         swSrc: "./src-sw.js",
-        swDest: "service-worker.js",
+        swDest: "src-sw.js",
       }),
     ],
 
