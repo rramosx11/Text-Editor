@@ -8,11 +8,12 @@ Created a simple text editor app that can function both online and offline. The 
 
 I have included a link to download my demo video as well as a link to the video on youtube.
 
-[Deployed URL](https://thawing-fortress-24698.herokuapp.com/)
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.13%20AM.png)
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.33%20AM.png)
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.48%20AM.png)
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.52%20AM.png)
+[Deployed URL](https://thawing-fortress-24698.herokuapp.com/) Click to be redirected to deployed URL. <br>
+
+![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.13%20AM.png) <br>
+![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.33%20AM.png) <br>
+![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.48%20AM.png) <br>
+![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.52%20AM.png) <br>
 
 ## Table-of-Contents
 
