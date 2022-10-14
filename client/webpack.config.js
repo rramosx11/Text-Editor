@@ -37,7 +37,7 @@ module.exports = () => {
             destination: path.join("assets", "icons"),
           },
           {
-            src: path.resolve("src/images/logo.png"),
+            src: path.resolve("src/images//logo.png"),
             size: "1024x1024",
             destination: path.join("assets", "icons"),
             purpose: "maskable",
@@ -45,7 +45,7 @@ module.exports = () => {
         ],
       }),
       new InjectManifest({
-        swSrc: "./sw.js",
+        swSrc: "./src-sw.js",
         swDest: "service-worker.js",
       }),
     ],
