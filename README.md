@@ -8,7 +8,7 @@ Created a simple text editor app that can function both online and offline. The 
 
 I have included a link to download my demo video as well as a link to the video on youtube.
 
-[Deployed URL](https://github.com/rramosx11/my-social-media/blob/main/assets/demo.mp4)
+[Deployed URL](https://thawing-fortress-24698.herokuapp.com/)
 
 ## Table-of-Contents
 
