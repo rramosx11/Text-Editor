@@ -23,6 +23,8 @@ module.exports = () => {
         title: "JATE",
       }),
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: "Text Editor Application",
         short_name: "JATE",
         description: "Just Another Text Editor!",
@@ -50,10 +52,10 @@ module.exports = () => {
           test: /\.css$/i,
           use: ["style-loader", "css-loader"],
         },
-        {
-          test: /\.(png|svg|jpg|jpeg|gif)$/i,
-          type: "asset/resource",
-        },
+        // {
+        //   test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        //   type: "asset/resource",
+        // },
         {
           test: /\.m?js$/,
           exclude: /(node_modules|bower_components)/,
